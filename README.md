@@ -7,6 +7,7 @@ Due to the urgent nature of the medical field, crucial images such as MRI scans,
 Cipher techniques play a large role in data security for the medical field. The Advanced Encryption Standard (AES) is widely used to protect medical images from unauthorized access. This helps medical agencies comply with privacy regulations such as HIPAA, which mandates the protection of patient information.
 Therefore, the applications of this project are massive, being applied in important fields on a day-to-day basis, which is why it is meaningful to learn about image encryption and how intellectual property can be protected.
 
+
 Key Takeaways:
 
 During this project, I was able to learn how to implement different cyphers to convert messages and encrypt them within images. Specifically, this project helped me gain technical experience with key libraries in Python such as the Image, numpy, and matplotlib libraries. Furthermore, I was also able to learn how to parse through & convert colored and gray images (differentiating between 2D and 3D channels) as well as reading, writing, and manipulating 2D/3D channels.
