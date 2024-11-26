@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def image(file_name):
-    #Reusing the same code from Task 1 to read the image and convert it to an array
+    #Read the image and convert it to an array
     image = plt.imread(file_name)
     image_array = np.array(image)
     if image_array.dtype != np.uint8:
